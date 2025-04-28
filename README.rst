@@ -11,4 +11,4 @@ Team Members
 * Abdulaziz - 12230330
 * Elyor - 12214756
 * Tilov - 12225275
-* Mamajonov Diyorbek - 12230315
+* Diyorbek - 12230315
