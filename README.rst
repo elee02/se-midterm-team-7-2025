@@ -2,8 +2,9 @@
 
 ### Team 7 - Midterm Project
 #### Team Members
-- **Akhrorbek** - 12214752
-- **Abdulaziz** - 12230330
-- **Elyor** - 12214756
-- **Tilov** - 12225275
-- **Mamajonov Diyorbek** - 12230315
+<!-- Correctly list the names -->
+* **Akhrorbek** - 12214752
+* **Abdulaziz** - 12230330
+* **Elyor** - 12214756
+* **Tilov** - 12225275
+* **Mamajonov Diyorbek** - 12230315
