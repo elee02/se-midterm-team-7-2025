@@ -1,8 +1,7 @@
 import { useState } from "react";
 import axios from "axios";
 
-const api  = process.env.OPEN_AI_API
-
+const apiUrl = import.meta.env.VITE_OPEN_AI_API;
 
 interface Message {
   text: string;
@@ -32,7 +31,7 @@ const useChatbot = () => {
         },
         {
           headers: {
-            Authorization: `Bearer ${api}`,
+            Authorization: `Bearer ${apiUrl}`,
             "Content-Type": "application/json",
           },
         }
