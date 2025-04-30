@@ -26,7 +26,7 @@ const ChatComponent: React.FunctionComponent = () => {
       <div className="w-full max-w-4xl h-[85vh] flex flex-col bg-white rounded-2xl shadow-xl overflow-hidden">
         {/* Header */}
         <h2 className="p-4 font-medium text-lg text-center bg-gradient-to-r from-blue-500 to-indigo-600 text-white flex items-center justify-center gap-2">
-          React + OpenAI Chatbot <LuBot size={24} />
+          Team E | 7 <LuBot size={24} />
         </h2>
 
         {/* Chat Area */}
