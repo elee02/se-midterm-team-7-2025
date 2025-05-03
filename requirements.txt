@@ -1,4 +1,12 @@
-torch
+fastapi
+uvicorn[standard]
 transformers
+torch
 sentence-transformers
-faiss
+faiss-cpu
+PyPDF2
+requests
+tiktoken
+einops
+transformers_stream_generator
+python-multipart
